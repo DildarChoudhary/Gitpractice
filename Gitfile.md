@@ -1,1 +1,2 @@
 My name is dildar and i want to learn how to push code from git to github
+Now i am try to learning about , how to get pull
